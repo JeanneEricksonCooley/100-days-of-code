@@ -6,7 +6,7 @@
 
 **Thoughts:** This challenge is going to be very helpful with (1) getting in the habit of coding every day, and (2) getting in the habit of committing to GitHub (something I've not been consistent doing).
 
-**Link to work:** http://jeanneericksoncooley.com
+**Link to work:** http://jeanneericksoncooley.com<br>https://github.com/JeanneEricksonCooley/resume
 
 <!--
 ### Day 0: February 30, 2016 (Example 1)
