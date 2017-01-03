@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 1: January 3, 2017
+
+**Today's Progress**: I cleaned up my resume site (code and content) built using HTML, CSS, JS, & Bootstrap. I committed the changes to GitHub. I forked the #100DaysOfCode repo.
+
+**Thoughts:** This challenge is going to be very helpful with (1) getting in the habit of coding every day, and (2) getting in the habit of committing to GitHub (something I've not been consistent doing).
+
+**Link to work:** http://jeanneericksoncooley.com
+
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +37,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
