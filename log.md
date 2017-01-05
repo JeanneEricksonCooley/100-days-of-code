@@ -8,6 +8,16 @@
 
 **Link to work:** http://jeanneericksoncooley.com<br>https://github.com/JeanneEricksonCooley/resume
 
+### Day 2: January 4, 2017
+
+**Today's Progress**: I started working on a redesign of my freelancing info site. I worked primarily with the CSS, but started the process of converting this to a one-page site (rather than separate HTML files for each page).
+
+**Thoughts:** I'm shaking off the cobwebs. I haven't consistently coded in a while.
+
+**Link to work:** http://doghouseweb.com
+
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
