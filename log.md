@@ -16,7 +16,13 @@
 
 **Link to work:** http://doghouseweb.com
 
+### Day 3: January 5, 2017
 
+**Today's Progress**: Continued working on Doghouse Web site. Created a reset/normalize CSS file separate from main CSS file. Cleaning up file structure slightly.
+
+**Thoughts:** I'm pretty amazed at how much I can get done in an hour when it's focused time.
+
+**Link to work:** http://doghouseweb.com
 
 <!--
 ### Day 0: February 30, 2016 (Example 1)
