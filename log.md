@@ -40,6 +40,14 @@
 
 **Link to work:** http://simoncooley.info & https://github.com/JeanneEricksonCooley/simon
 
+### Day 6: January 8, 2017
+
+**Today's Progress:** I'm working on styling for my son's site. I added a w3-sidenav yesterday and am working on styling it.
+
+**Thoughts:** I'm trying to center the text within the nav sections. I'm having trouble getting the text to show up opaque (I have the nav section set up at 0.3 opacity & only want the background transparent, not the text). Goal for tomorrow is to fix these two things, add title/header bar, make navbar responsive, and start adding content to the other three sections.
+
+**Link to work:** http://simoncooley.info & https://github.com/JeanneEricksonCooley/simon
+
 <!--
 
 ### Day : , 2017
