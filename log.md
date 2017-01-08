@@ -30,7 +30,15 @@
 
 **Thoughts:** I played with the thought that I'd build this in WordPress. Ultimately, this will be a fairly simple site that I want to build using some specific tools/languages.
 
-**Link to work:** It's not up yet, but will be located at: simoncooley.info
+**Link to work:** It's not up yet, but will be located at: http://simoncooley.info
+
+### Day 5: January 7, 2017
+
+**Today's Progress:** Worked on my son's info site some more. Created repository on GitHub for site.
+
+**Thoughts:** I shocked myself when I remembered how to use the terminal to initialize git in this project file & push to the GitHub repository. This is a very simple site, but it really is going to help me get back to coding.
+
+**Link to work:** http://simoncooley.info & https://github.com/JeanneEricksonCooley/simon
 
 <!--
 
