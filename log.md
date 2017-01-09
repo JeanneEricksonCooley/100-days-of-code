@@ -48,6 +48,14 @@
 
 **Link to work:** http://simoncooley.info & https://github.com/JeanneEricksonCooley/simon
 
+### Day 7: January 9, 2017
+
+**Today's Progress:** I updated some of the content and styling on my freelancing site. I made the title section responsive using a media query. I continued to work on my son's site, adding content, styling, and working on responsive layout. I have the mobile nav working, I need to make it a little more user friendly.
+
+**Thoughts:** There are so many little things that I could waste time on and really not get the project done. I'm working on making meaningful forward progress every day and I'll work on polishing up the projects after I get a useable sites up.
+
+**Link to work:** http://simoncooley.info & http://doghouseweb.com
+
 <!--
 
 ### Day : , 2017
