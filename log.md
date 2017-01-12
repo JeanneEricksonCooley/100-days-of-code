@@ -56,6 +56,22 @@
 
 **Link to work:** http://simoncooley.info & http://doghouseweb.com
 
+### Day 8: January 10, 2017
+
+**Today's Progress:** A whole lot of banging my head against the wall today. I'm trying to alter the styling in mobile view of my son's site using pure JS. My code is almost exactly where it was yesterday.
+
+**Thoughts:** These days happen. Just a whole lot of trying, but only dead ends. I'll try again tomorrow.
+
+**Link to work:** http://simoncooley.info
+
+### Day 9: January 11, 2017
+
+**Today's Progress:** More frustration. I didn't get much further working on the JS. I did add a video (iframe) to my son's site (didn't format/style yet, though).
+
+**Thoughts:** I think having more than an hour to put in to this project will be helpful.
+
+**Link to work:** http://simoncooley.info
+
 <!--
 
 ### Day : , 2017
